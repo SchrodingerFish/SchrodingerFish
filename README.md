@@ -27,4 +27,5 @@
 ### Pinned Repositorys
 ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=SchrodingerFish&repo=cochat-api&theme=dark)  ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=SchrodingerFish&repo=cloudflare-AI-workers&theme=dark)
 
-
+### Activity
+![](https://github-readme-activity-graph.cyclic.app/graph?username=SchrodingerFish&theme=dracula)

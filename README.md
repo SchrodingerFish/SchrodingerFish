@@ -28,4 +28,6 @@
 ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=SchrodingerFish&repo=cochat-api&theme=dark)  ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=SchrodingerFish&repo=cloudflare-AI-workers&theme=dark)
 
 ### Activity
-![](https://github-readme-activity-graph.cyclic.app/graph?username=SchrodingerFish&theme=dracula)
+![活动](https://github-readme-activity-graph.cyclic.app/graph?username=SchrodingerFish&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SchrodingerFish&langs_count=20)

@@ -1,5 +1,4 @@
 ## Hi there 👋
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=SchrodingerFish&show_icons=true&theme=dark)
 
 - 🔭 I’m currently working on Developing
 - 🌱 I’m currently learning Flutter
@@ -9,3 +8,7 @@
 - 📫 How to reach me: SchrodingersFish@outlook.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=SchrodingerFish&show_icons=true&theme=tokyonight)
+
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=SchrodingerFish&layout=compact&theme=tokyonight)

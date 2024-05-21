@@ -27,7 +27,18 @@
 ### Pinned Repositorys
 ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=SchrodingerFish&repo=cochat-api&theme=dark)  ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=SchrodingerFish&repo=cloudflare-AI-workers&theme=dark)
 
-### Activity
-![活动](https://github-readme-activity-graph.cyclic.app/graph?username=SchrodingerFish&theme=dracula)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SchrodingerFish" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SchrodingerFish&layout=compact&langs_count=20&card_width=320" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SchrodingerFish&repo=cochat-api&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SchrodingerFish&repo=cloudflare-AI-workers&theme=dark" />
+</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SchrodingerFish&langs_count=20)

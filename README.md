@@ -27,3 +27,7 @@
 
 ### 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SchrodingerFish)](https://git.io/streak-stats)
+
+
+### Activity
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=SchrodingerFish&theme=github-compact&hide_border=true&area=true" />

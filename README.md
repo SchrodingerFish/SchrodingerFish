@@ -10,6 +10,9 @@
 ### I'm Coding With These Language Below
 ![tip](https://badgen.net/badge/python/3.11/green?icon=github)   ![tip](https://badgen.net/badge/java/11/red?icon=github)   ![tip](https://badgen.net/badge/go/1.22/blue?icon=github)
 
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=java,python,go,nodejs,jquery&theme=light)](https://skillicons.dev)
+
 ### Number Of Visitors 
 ![Visitor Count](https://profile-counter.glitch.me/{SchrodingerFish}/count.svg)
 

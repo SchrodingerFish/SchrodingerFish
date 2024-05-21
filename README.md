@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=SchrodingerFish&show_icons=true&theme=default)
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=SchrodingerFish&show_icons=true&theme=dark)
 
 - 🔭 I’m currently working on Developing
 - 🌱 I’m currently learning Flutter

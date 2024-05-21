@@ -1,14 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F7A5&random=false&width=435&lines=Wellcome+to+my+homepage!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&random=false&width=600&lines=%F0%9F%98%84+I%E2%80%99m+currently+working+on+Web+Project)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&random=false&width=600&lines=%E2%9A%A1+I%E2%80%99m+currently+learning+Flutter)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&random=false&width=600&lines=%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+on+PersonalProjects)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&random=false&width=600&lines=%F0%9F%A4%94+I%E2%80%99m+looking+for+help+with+Flutter)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&random=false&width=600&lines=%F0%9F%92%AC+Ask+me+about+Java%2FPython%2FGo)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&random=false&width=600&lines=%F0%9F%93%AB+How+to+reach+me%3A+SchrodingersFish%40outlook.com)](https://git.io/typing-svg)
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&multiline=true&random=false&width=600&lines=%F0%9F%98%84+I%E2%80%99m+currently+working+on+Web+Project;%E2%9A%A1+I%E2%80%99m+currently+learning+Flutter;%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+on+PersonalProjects;%F0%9F%A4%94+I%E2%80%99m+looking+for+help+with+Flutter;%F0%9F%92%AC+Ask+me+about+Java%2FPython%2FGo;%F0%9F%93%AB+How+to+reach+me%3A+%5BSchrodingersFish%40outlook.com%5D(mailto%3ASchrodingersFish%40outlook.com))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&random=false&width=600&height=80&lines=%F0%9F%98%84+I%E2%80%99m+currently+working+on+Web+Project;%E2%9A%A1+I%E2%80%99m+currently+learning+Flutter;%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+on+PersonalProjects;%F0%9F%A4%94+I%E2%80%99m+looking+for+help+with+Flutter;%F0%9F%92%AC+Ask+me+about+Java%2FPython%2FGo;%F0%9F%93%AB+How+to+reach+me%3A+%5BSchrodingersFish%40outlook.com%5D(mailto%3ASchrodingersFish%40outlook.com))](https://git.io/typing-svg)
 
 ### I'm Coding With These Language Below
 ![tip](https://badgen.net/badge/python/3.11/green?icon=github)   ![tip](https://badgen.net/badge/java/11/red?icon=github)   ![tip](https://badgen.net/badge/go/1.22/blue?icon=github)

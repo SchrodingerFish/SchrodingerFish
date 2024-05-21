@@ -24,3 +24,6 @@
 
 ### Pinned Repositorys
 ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=SchrodingerFish&repo=cochat-api&theme=dark)   ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=SchrodingerFish&repo=cloudflare-AI-workers&theme=dark)
+
+### 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SchrodingerFish)](https://git.io/streak-stats)

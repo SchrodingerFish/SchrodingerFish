@@ -22,6 +22,9 @@
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=SchrodingerFish&layout=compact&theme=tokyonight)
 
 ### Stars And Follow
-![github统计](https://stats.justsong.cn/api/github?username=SchrodingerFis&theme=dark&lang=zh-CN)
+![github统计](https://stats.justsong.cn/api/github?username=SchrodingerFish&theme=dark&lang=zh-CN)
+
+### Pinned Repositorys
+![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=SchrodingerFish&repo=cochat-api&theme=dark)  ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=SchrodingerFish&repo=cloudflare-AI-workersi&theme=dark)
 
 

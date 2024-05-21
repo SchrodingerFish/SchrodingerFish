@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F7A5&random=false&width=435&lines=Wellcome+to+my+homepage!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F7A5&random=false&width=435&lines=%F0%9F%98%84+I%E2%80%99m+currently+working+on+Web+Project)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F7A5&random=false&width=600&lines=%F0%9F%98%84+I%E2%80%99m+currently+working+on+Web+Project)](https://git.io/typing-svg)
 - ⚡ I’m currently learning Flutter
 - 👯 I’m looking to collaborate on PersonalProjects
 - 🤔 I’m looking for help with Flutter

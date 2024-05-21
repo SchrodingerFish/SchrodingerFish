@@ -12,11 +12,11 @@
 ### I'm Coding With These Language Below
 ![tip](https://badgen.net/badge/python/3.11/green?icon=github)   ![tip](https://badgen.net/badge/java/11/red?icon=github)   ![tip](https://badgen.net/badge/go/1.22/blue?icon=github)
 
-### Number Of Visitors
-![Visitor Count](https://profile-counter.glitch.me/{SchrodingerFish}/count.svg)
+### Number Of Visitors                                                              ### About My Account
+![Visitor Count](https://profile-counter.glitch.me/{SchrodingerFish}/count.svg)    ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=SchrodingerFish&show_icons=true&theme=tokyonight)
 
-### About My Account
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=SchrodingerFish&show_icons=true&theme=tokyonight)
+
+
 
 ### Repository Language Used
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=SchrodingerFish&layout=compact&theme=tokyonight)

@@ -19,6 +19,9 @@
 ### Repository Language Used
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=SchrodingerFish&layout=compact&theme=tokyonight&langs_count=20)
 
+### Repository Language Used Time
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SchrodingerFis&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+
 ### Stars And Follow
 ![github统计](https://stats.justsong.cn/api/github?username=SchrodingerFish&theme=dark&lang=zh-CN)
 

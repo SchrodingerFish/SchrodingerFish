@@ -21,4 +21,7 @@
 ### Repository Language Used
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=SchrodingerFish&layout=compact&theme=tokyonight)
 
+### Stars And Follow
+![github统计](https://stats.justsong.cn/api/github?username=SchrodingerFis&theme=dark&lang=zh-CN)
+
 

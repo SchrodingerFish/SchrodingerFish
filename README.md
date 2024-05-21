@@ -1,5 +1,7 @@
 ## Hi there 👋
-![tip](https://badgen.net/badge/python/3.1.6/green?icon=packagephobia)
+![tip](https://badgen.net/badge/python/3.11/green?icon=github)
+![tip](https://badgen.net/badge/java/11/red?icon=github)
+![tip](https://badgen.net/badge/go/1.22/blue?icon=github)
 - 🔭 I’m currently working on Developing
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on PersonalProjects

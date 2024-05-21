@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-## Coding With These Language Below
-![tip](https://badgen.net/badge/python/3.11/green?icon=github)![tip](https://badgen.net/badge/java/11/red?icon=github)![tip](https://badgen.net/badge/go/1.22/blue?icon=github)
+### Coding With These Language Below
+![tip](https://badgen.net/badge/python/3.11/green?icon=github)   ![tip](https://badgen.net/badge/java/11/red?icon=github)   ![tip](https://badgen.net/badge/go/1.22/blue?icon=github)
 
-## Number Of Visitors
+### Number Of Visitors
 ![Visitor Count](https://profile-counter.glitch.me/{SchrodingerFish}/count.svg)
 
-## About My Account
+### About My Account
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=SchrodingerFish&show_icons=true&theme=tokyonight)
 
-## Repository Language Used
+### Repository Language Used
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=SchrodingerFish&layout=compact&theme=tokyonight)
 
 - 🔭 I’m currently working on Developing

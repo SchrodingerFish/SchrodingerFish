@@ -11,12 +11,6 @@
 ### Number Of Visitors 
 ![Visitor Count](https://profile-counter.glitch.me/{SchrodingerFish}/count.svg)
 
-### About My Account
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=SchrodingerFish&show_icons=true&theme=tokyonight)
-
-### Repository Language Used
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=SchrodingerFish&layout=compact&theme=tokyonight&langs_count=20)
-
 ### Repository Language Used Time
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SchrodingerFish&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 

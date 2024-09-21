@@ -11,9 +11,6 @@
 ### Number Of Visitors 
 ![Visitor Count](https://profile-counter.glitch.me/{SchrodingerFish}/count.svg)
 
-### Repository Language Used Time
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SchrodingerFish&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-
 ### Stars And Follow
 ![github统计](https://stats.justsong.cn/api/github?username=SchrodingerFish&theme=dark&lang=zh-CN)
 

@@ -34,8 +34,4 @@
       https://api.star-history.com/svg?repos=SchrodingerFish/cochat-api&type=Date
     "
   />
-  <img
-    alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=SchrodingerFish/cochat-api&type=Date"
-  />
 </picture>
